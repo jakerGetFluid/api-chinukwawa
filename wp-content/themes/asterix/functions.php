@@ -61,7 +61,7 @@ function asterix_custom_post_types() {
   $dashicon      = 'dashicons-format-status';
 
   $labels = array(
-   'name'               => $singular_name,
+   'name'               => $plural_name,
    'singular_name'      => $singular_name,
    'menu_name'          => $plural_name,
    'name_admin_bar'     => $singular_name,
